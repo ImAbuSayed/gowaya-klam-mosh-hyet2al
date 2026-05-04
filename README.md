@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Gowaya Klam Mosh Hyet2al |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/gowaya-klam-mosh-hyet2al/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
