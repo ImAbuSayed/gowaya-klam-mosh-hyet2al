@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gowaya Klam Mosh Hyet2al
+
+This log tracks the cryptographic history and versioning for the song **Gowaya Klam Mosh Hyet2al** (gowaya-klam-mosh-hyet2al).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:38:10.730050 | `v1` | `8aa09841cbe58e95c0d522276ba216b97766a62ce177dedb9b39a09fc33b6060` | `cd5fb1c2fe78ec6de4c6a9a05227b70e9a0fbb37b1ac34ba9468885b485d6315` | `2026-05-08_gowaya-klam-mosh-hyet2al-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
